@@ -26,14 +26,14 @@
 - папка img с изображениями;
 - папка js с javascript файлами;
 
-Макет сайта находится по ссылке https://www.figma.com/file/uSeXndmGD8R4F8kSZxZo40/Landing_4-(W-Wave-Radio)?t=A8i13YCw6Ph3sjD2-0
+Макет сайта находится по ссылке https://www.figma.com/file/uSeXndmGD8R4F8kSZxZo40/Landing_4-(W-Wave-Radio)?t=A8i13YCw6Ph3sjD2-0 <br>
 Итоговая верстка может отличаться от данного макета, так как он иногда дополняется новыми деталями. Для более точной сверки
 используйте изображения png в репозитории.
 
-Для реализации селектов был использован плагин choices (choices.min.js, choices.min.css)
-Для реализации валидации формы был использован плагин just-validate (just-validate.min.js, just-validate.min.css)
-Для реализации табов, свайпера, аккордиона был использован jQuery
-Реализация остальных интерактивных элементов выполнена в javascript
+Для реализации селектов был использован плагин choices (choices.min.js, choices.min.css) <br>
+Для реализации валидации формы был использован плагин just-validate (just-validate.min.js, just-validate.min.css) <br>
+Для реализации табов, свайпера, аккордиона был использован jQuery <br>
+Реализация остальных интерактивных элементов выполнена в javascript <br>
 
 Реализация адаптива колонок выполнена на основе Bootstrap
 
